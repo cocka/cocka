@@ -3,6 +3,11 @@ I am Gisele Cocka (she/her)
 
 - 🔭 I’m currently working with Linux Systems and also exploring Team Lead activities 💕
 - Tools: <br>
+RedHat, Ubuntu, Debian, SUSE, CentOS<br>
+Git, BitBucket, Jenkins, Ansible, Puppet<br>
+Python, Shell, Java<br>
+AWS, GCP, Azure
+<!--
 <div style="display: inline_block">
   <img align="center" alt="RedHat" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-plain-wordmark.svg">
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
@@ -23,9 +28,12 @@ I am Gisele Cocka (she/her)
   <img align="center" alt="GCP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-plain-wordmark.svg">
   <img align="center" alt="Azure" height="30" width="40" src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg">
 </div>
+-->
 
 - 🌱 I’m currently learning Infrastructure as Code/DevOps/SRE in 2 mentoring free programs 💕
 - Tools: <br>
+Kubernetes, Docker, Ansible (always), Apache Kafka, Go, Vagrant, Istio, Prometheus, Grafana
+<!--
 <div style="display: inline_block">
   <img align="center" alt="Kubernetes" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
@@ -37,7 +45,7 @@ I am Gisele Cocka (she/her)
   <img align="center" alt="Prometheus" height="30" width="40" src="">
   <img align="center" alt="Grafana" height="30" width="40" src="">
 </div>
-
+-->
 ##
 
 - 📫 How to reach me:
