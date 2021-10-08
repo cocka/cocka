@@ -65,9 +65,10 @@ Kubernetes, Docker, Ansible (always), Apache Kafka, Go, Vagrant, Istio, Promethe
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cocka&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
+<!--
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cocka&label=Profile%20views&color=0e75b6&style=flat" alt="cocka" /> </p>
   
-<!--
 ### Hi there 👋
 
 Here are some ideas to get you started:
